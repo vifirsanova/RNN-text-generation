@@ -1,1 +1,3 @@
-# RNN-text-generation
+# RNN Text Generation
+
+Book summaries generation in English 
